@@ -1,5 +1,5 @@
 {
-    "name": "euknyaz/magento2-customerattributes",
+    "name": "euknyaz/magento2-customer-attributes",
     "description": "N/A",
     "require": {
 	"php": "7.0.*|7.1.*"
