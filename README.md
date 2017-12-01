@@ -15,3 +15,7 @@ Now when you log into the Admin Panel and go to Customers > All Customers > New 
 - Magento 2.0
 - Magento 2.1
 - Magento 2.2
+
+### Links
+
+https://magento.stackexchange.com/questions/162214/how-to-show-custom-customer-attribute-in-customer-grid-dynamically-using-backend
